@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 1em;
+	background-color: #000;
+	color: #fff;
+	font-family: monospace;
+	vertical-align: middle;
+}
+
+input.button {
+	background-color: #000;
+	border: 2px solid #fff;
+	padding: 0.5em;
+	font-family: monospace;
+	color: #fff;
+	margin: 0.5em;
+}
+
+textarea.field {
+	background-color: #000;
+	border: 2px solid #fff;
+	padding: 0.5em;
+	font-family: monospace;
+	color: #fff;
+	width: 100%;
+}
+
+table {
+	width: 90%;
+	margin: 2em;
+}
+
+td.narrow {
+	width: 20%;
+}
+
+a {
+	color: #fff;
+}
